@@ -9,7 +9,7 @@ let courses = [ {
     name: 'nodejs'
 }, {
     id: 3,
-    name: 'express'
+    name: 'expressJs'
 }
 
 ];
